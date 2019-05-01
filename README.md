@@ -1,6 +1,6 @@
 # NdisEtl2Pcap
 
-NdisEtl2Pcap converts from the capture file that creates by the netsh command to the pcap file.
+NdisEtl2Pcap converts from the network trace file that creates by the netsh command to the pcap file.
 
 ## Usage
 
