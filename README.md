@@ -42,3 +42,7 @@ Merging traces ... done
 File location = C:\temp\nettrace.etl
 Tracing session was successfully stopped.
 ```
+
+## Related
+
+- [CaptureNetworkTraceByPowerShell](https://github.com/tksh164/CaptureNetworkTraceByPowerShell): Network trace capturing script by PowerShell with netsh command.
