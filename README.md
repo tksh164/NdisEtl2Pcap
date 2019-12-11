@@ -29,7 +29,7 @@ Elapsed: 00:00:04.8648188
 
 ## Capture network trace using the netsh command
 
-You can create a network trace etl file using the netsh trace command. From Windows 7/Windows Server 2008 R2, the netsh command has trace sub-command. [Details are here](https://docs.microsoft.com/en-us/windows/desktop/ndf/network-tracing-in-windows-7).
+You can create a network trace etl file using the netsh trace command. Since Windows 7/Windows Server 2008 R2, the netsh command has trace sub-command. [Details are here](https://docs.microsoft.com/en-us/windows/desktop/ndf/network-tracing-in-windows-7).
 
 Example:
 
