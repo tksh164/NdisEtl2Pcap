@@ -2,6 +2,14 @@
 
 NdisEtl2Pcap converts from the network trace file that creates by the netsh command to the pcap file.
 
+## Installation
+
+Download executable file from [release](./releases).
+
+## Requirements
+
+- .NET Framework 4.7 or later
+
 ## Usage
 
 ```
