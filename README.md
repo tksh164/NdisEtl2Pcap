@@ -4,7 +4,7 @@ NdisEtl2Pcap converts from the network trace file that creates by the netsh comm
 
 ## Installation
 
-Download executable file from [release](./releases).
+Download executable file from [release](https://github.com/tksh164/NdisEtl2Pcap/releases/latest).
 
 ## Requirements
 
