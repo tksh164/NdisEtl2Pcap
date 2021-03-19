@@ -54,3 +54,9 @@ Tracing session was successfully stopped.
 ## Related
 
 - [CaptureNetworkTraceByPowerShell](https://github.com/tksh164/CaptureNetworkTraceByPowerShell): Network trace capturing script by PowerShell with netsh command.
+
+## License
+
+Copyright (c) 2018-present Takeshi Katano. All rights reserved. This software is released under the [MIT License](https://github.com/tksh164/NdisEtl2Pcap/blob/master/LICENSE).
+
+Disclaimer: The codes stored herein are my own personal codes and do not related my employer's any way.
