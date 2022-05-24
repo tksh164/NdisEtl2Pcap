@@ -1,7 +1,5 @@
 # NdisEtl2Pcap
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/NdisEtl2Pcap)
-
 NdisEtl2Pcap converts from the network trace file that creates by the netsh command to the pcap file.
 
 ## Installation
